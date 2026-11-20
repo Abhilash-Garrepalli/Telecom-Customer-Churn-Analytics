@@ -22,7 +22,7 @@ Telecom-Customer-Churn-Analytics/
 ├── data/
 │   ├── WA_Fn-UseC_-Telco-Customer-Churn.csv   # Raw dataset
 │   └── cleaned_telco_churn.csv                # Preprocessed dataset ready for SQL
-├── notebooks/
+├── script/
 │   └── 01_churn_data_cleaning.ipynb           # Python data cleaning & feature engineering
 ├── sql/
 │   └── 01_churn_analysis.sql                  # Star-schema DDL & T-SQL retention queries
