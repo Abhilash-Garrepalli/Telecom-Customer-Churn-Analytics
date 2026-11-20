@@ -20,7 +20,7 @@ Subscription-based telecom providers lose significant recurring revenue when sub
 ```text
 Telecom-Customer-Churn-Analytics/
 ├── data/
-│   ├── WA_Fn-UseC_-Telco-Customer-Churn.csv   # Raw dataset
+│   |
 │   └── cleaned_telco_churn.csv                # Preprocessed dataset ready for SQL
 ├── script/
 │   └── 01_churn_data_cleaning.ipynb           # Python data cleaning & feature engineering
